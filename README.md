@@ -21,3 +21,6 @@ Study ThreeJS
 | Three | WebGL 3D Framework | `npm install three` 
 
 
+# Data 
+- Textures
+  - [by Paul Volkmer, Space Background Texture, 10.03.2023](https://unsplash.com/photos/qVotvbsuM_c)
