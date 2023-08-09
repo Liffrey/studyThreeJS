@@ -2,7 +2,8 @@
 Study ThreeJS
 
 # TODO
-  - [ ] Hello Cube
+  - [x] Hello Cube
+  - [ ] Add more material and create a simple web site
 
 # Install & Use
 ## Use
